@@ -1,0 +1,10 @@
+bin/
+obj/
+*.suo
+*.csproj.user
+/TestResults
+
+*_ReSharper*
+*_Resharper*
+*resharper.user*
+*.resharper
