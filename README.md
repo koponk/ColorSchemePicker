@@ -1,7 +1,7 @@
-﻿h1. ColorSchemePicker
+﻿# ColorSchemePicker
 
 Application to pick scheme based on input colors
 
-h2. Features:
+## Features
 
 * Contrast selection
